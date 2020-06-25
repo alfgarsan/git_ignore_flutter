@@ -1,6 +1,6 @@
-This is a typical .gitignore file for a flutter project.
+The .gitignore file in this project is a typical .gitignore file for a flutter project.
 
-So the content that is managed by git should be something llike that:
+So the remaining content, I mean, the content that is actually managed by git should be something llike that:
 * android
 * ios
 * lib
